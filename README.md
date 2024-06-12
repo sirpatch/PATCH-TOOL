@@ -23,7 +23,7 @@ Windows 10
 
 0. ( optional ) Before downloading and/or running this program disable the antivirus software to avoid deleting the tool before use.
 
-1. Download latest version from relase page for your windows architecture 32bit or 64bit.
+1. Download latest version from [relase page](https://github.com/sirpatch/PATCH-TOOL/releases) for your windows architecture 32bit or 64bit.
 
 2. ( optional ) Move files from /downloads to other directory where You can easily find this tool. ( example: /Desktop/PATCH_TOOL )
 
@@ -39,7 +39,7 @@ If You can't download or run this file just go to step 0
 
 0. ( optional ) Before downloading and/or running this program disable the antivirus software to avoid deleting the tool before use.
 
-1. Download latest version from relase page for your windows architecture 32bit or 64bit.
+1. Download latest version from [relase page](https://github.com/sirpatch/PATCH-TOOL/releases) for your windows architecture 32bit or 64bit.
 
 2. ( optional ) Move files from /downloads to other directory where You can easily find this tool. ( example: /Desktop/PATCH_TOOL )
 
