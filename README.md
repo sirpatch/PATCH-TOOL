@@ -18,7 +18,7 @@ This program not changing Your windows to other version ! ( example 1: win10 -> 
 This program is free from viruses but probably only on this page.
 Do not download this tool from other pages because the software may have been modified and have viruses!
 
-## supported windows:
+## <p align="center"> supported windows </p>
 Windows 11
 Windows 10
 Windows 8
