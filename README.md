@@ -18,7 +18,7 @@ This program is free from viruses but probably only on this page.
 Do not download this tool from other pages because the software may have been modified and have viruses!
 
 ## supported windows:
--Windows 11-
+Windows 11
 Windows 10
 Windows 8
 Windows server 2019
@@ -44,6 +44,7 @@ If You can't download or run this file just go to step 0
 
 
 ## How to start program on already activated windows:
+<p align="center"> NOT WORKING YET </p>
 
 0. ( optional ) Before downloading and/or running this program disable the antivirus software to avoid deleting the tool before use.
 
