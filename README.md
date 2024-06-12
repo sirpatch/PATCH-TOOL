@@ -10,5 +10,7 @@ supported windows:
 Windows 8/10/11
 Windows server 2016/2019
 
+Tested on Windows 10
+
 
 Before downloading and running it is recommended to disable the antivirus software to avoid deleting the tool before use.
