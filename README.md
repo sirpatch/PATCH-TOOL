@@ -18,8 +18,11 @@ This program is free from viruses but probably only on this page.
 Do not download this tool from other pages because the software may have been modified and have viruses!
 
 ## supported windows:
-Windows 8/10/11
-Windows server 2016/2019
+Windows 11
+Windows 10
+Windows 8
+Windows server 2019
+Windows server 2016
 
 ## Tested on:
 Windows 10
