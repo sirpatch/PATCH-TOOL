@@ -25,10 +25,10 @@ Windows 8
 Windows server 2019
 Windows server 2016
 
-## Tested on:
+## <p align="center"> Tested on </p>
 Windows 10
 
-## How to start program on not activated windows:
+## <p align="center"> How to start program on not activated windows </p>
 
 0. ( optional ) Before downloading and/or running this program disable the antivirus software to avoid deleting the tool before use.
 
@@ -44,7 +44,7 @@ If You can't download or run this file just go to step 0
 
 
 
-## How to start program on already activated windows:
+## <p align="center"> How to start program on already activated windows </p>
 
 0. ( optional ) Before downloading and/or running this program disable the antivirus software to avoid deleting the tool before use.
 
