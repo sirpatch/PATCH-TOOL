@@ -2,9 +2,8 @@
 
 <p align="center">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sirpatch/PATCH-TOOL?color=181717&logo=github&style=for-the-badge">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/sirpqtch/PATCH-TOOL?color=181717&logo=github&style=for-the-badge">
-
 <p align="center">
+
 !! THIS TOOL IS ONLY FOR WINDOWS !! 
 
 !! The developer is not responsible for any damage caused by the use of this program !!
