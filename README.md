@@ -2,6 +2,7 @@
 
 <p align="center">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sirpatch/PATCH-TOOL?color=181717&logo=github&style=for-the-badge">
+</p>
 <p align="center">
 
 !! THIS TOOL IS ONLY FOR WINDOWS !! 
@@ -44,7 +45,6 @@ If You can't download or run this file just go to step 0
 
 
 ## How to start program on already activated windows:
-<p align="center"> NOT WORKING YET </p>
 
 0. ( optional ) Before downloading and/or running this program disable the antivirus software to avoid deleting the tool before use.
 
