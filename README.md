@@ -18,17 +18,17 @@ This program not changing Your windows to other version ! ( example 1: win10 -> 
 This program is free from viruses but probably only on this page.
 Do not download this tool from other pages because the software may have been modified and have viruses!
 
-## <p align="center"> supported windows </p>
+## <h1 align="center"> supported windows </p>
 Windows 11
 Windows 10
 Windows 8
 Windows server 2019
 Windows server 2016
 
-## <p align="center"> Tested on </p>
+## <h1 align="center"> Tested on </h1>
 Windows 10
 
-## <p align="center"> How to start program on not activated windows </p>
+## <p align="center"> How to start program on not activated windows </h1>
 
 0. ( optional ) Before downloading and/or running this program disable the antivirus software to avoid deleting the tool before use.
 
@@ -44,7 +44,7 @@ If You can't download or run this file just go to step 0
 
 
 
-## <p align="center"> How to start program on already activated windows </p>
+## <h1 align="center"> How to start program on already activated windows </h1>
 
 0. ( optional ) Before downloading and/or running this program disable the antivirus software to avoid deleting the tool before use.
 
