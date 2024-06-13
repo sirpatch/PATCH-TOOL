@@ -66,7 +66,7 @@ If You can't download or run this file just go to step 0
 
 7. Your PC should restart automatic in 60 seconds. If not, restart PC manually.
 
-8. Go to step 3.2 in "[how to start program on not activated windows](https://github.com/sirpatch/PATCH-TOOL?tab=readme-ov-file#-how-to-start-program-on-not-activated-windows)"
+8. Go to step 3.2 in "[how to start program on not activated windows](https://github.com/sirpatch/PATCH-TOOL?tab=readme-ov-file#-how-to-start-program-on-not-activated-windows-)"
 
 If You can't download or run this file just go to step 0
 
